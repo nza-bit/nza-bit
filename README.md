@@ -5,4 +5,4 @@
 - 👯 I'm looking to collaborate on medical image processing.
 - 🤔 I'm looking for help to improve my programming proficiency.
 - 💬 Hope to be a better individual!
-- 📫 How to reach me: Email：ziangniu@163.com
+- 📫 How to reach me: Email：ziangniu@163.com / ziangniu@outlook.com
